@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tesseract-with-html5-camera-demo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/tesseract-with-html5-camera-demo/static/js/main.13441c91.chunk.js",
+    "main.js.map": "/tesseract-with-html5-camera-demo/static/js/main.13441c91.chunk.js.map",
+    "runtime-main.js": "/tesseract-with-html5-camera-demo/static/js/runtime-main.fddf552b.js",
+    "runtime-main.js.map": "/tesseract-with-html5-camera-demo/static/js/runtime-main.fddf552b.js.map",
+    "static/css/2.f0405d8a.chunk.css": "/tesseract-with-html5-camera-demo/static/css/2.f0405d8a.chunk.css",
+    "static/js/2.8c1b3398.chunk.js": "/tesseract-with-html5-camera-demo/static/js/2.8c1b3398.chunk.js",
+    "static/js/2.8c1b3398.chunk.js.map": "/tesseract-with-html5-camera-demo/static/js/2.8c1b3398.chunk.js.map",
+    "index.html": "/tesseract-with-html5-camera-demo/index.html",
+    "precache-manifest.d026644cd169e5e7f7d327c7a6645a24.js": "/tesseract-with-html5-camera-demo/precache-manifest.d026644cd169e5e7f7d327c7a6645a24.js",
+    "service-worker.js": "/tesseract-with-html5-camera-demo/service-worker.js",
+    "static/css/2.f0405d8a.chunk.css.map": "/tesseract-with-html5-camera-demo/static/css/2.f0405d8a.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/tesseract-with-html5-camera-demo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8c1b3398.chunk.js.LICENSE.txt": "/tesseract-with-html5-camera-demo/static/js/2.8c1b3398.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fddf552b.js",
+    "static/css/2.f0405d8a.chunk.css",
+    "static/js/2.8c1b3398.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.13441c91.chunk.js"
+  ]
+}
